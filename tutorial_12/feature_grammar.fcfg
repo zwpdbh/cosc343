@@ -1,0 +1,82 @@
+# The simple context-free grammar with features from Lecture 22. 
+# Alistair Knott 19/5/2016
+
+# We begin with a directive indicating the 'distinguished symbol' in the grammar - 
+# i.e. the symbol that should appear at the top of trees. In our case, this is 'S'. 
+% start S
+
+#Grammatical rules (i.e. rules about sentence structure above the level of words) #######
+
+#Rules about how to form sentences (S)
+#S -> NP[Pers=?p,Num=?n] VP[Pers=?p,Num=?n]
+S -> NP[Pers=?p,Num=?n, SubjectOrObject=subject] VP[Pers=?p,Num=?n]
+S -> "if" S S
+
+#Rules about how to form NPs
+NP[Pers=3, Num=?n] -> PN[Num=?n]
+NP[Pers=3, Num=?n] -> Det[Num=?n] N[Num=?n]
+NP[Pers=3, Num=plur] -> N[Num=plur]
+
+#Rules about how to form VPs
+VP[Pers=?p, Num=?n] -> V0[Pers=?p, Num=?n]
+VP[Pers=?p, Num=?n] -> V1[Pers=?p, Num=?n] NP[SubjectOrObject=object]
+VP[Pers=?p, Num=?n] -> V2[Pers=?p, Num=?n] NP PP
+VP[Pers=?p, Num=?n] -> V_Sent[Pers=?p, Num=?n] S
+VP[Pers=?p, Num=?n] -> VP[Pers=?p, Num=?n] PP
+
+#Rules about how to form PPs 
+PP -> P NP  
+
+#Lexical rules (i.e. rules involving words) #################################################
+
+#Determiners########
+Det[Num=sing] -> "a" | "every"
+Det[Num=plur] -> "all"
+Det -> "the"
+
+#Nouns##############
+N[Num=sing] -> "dog" | "table" | "cat"
+N[Num=plur] -> "dogs" | "tables" | "cats"
+N -> "sheep"
+#added
+N -> N PP
+  
+#Proper nouns#######
+PN[Num=sing] -> "John" | "Mary" | "Fido"
+
+#Prepositions#######
+P -> "in" | "behind" | "on"
+
+#Personal pronouns. (Note these are of type NP, even though they're words.)
+NP[Pers=2, SubjectOrObject=?s] -> "you"
+NP[Pers=1, Num=sing, SubjectOrObject=subject] -> "I"
+NP[Pers=3, Num=sing, SubjectOrObject=subject] -> "she" | "he"
+NP[Pers=1, Num=plur, SubjectOrObject=subject] -> "we"
+NP[Pers=3, Num=sing, SubjectOrObject=subject] -> "they"
+
+NP[Pers=1, Num=sing, SubjectOrObject=object] -> "me"
+NP[Pers=3, Num=sing, SubjectOrObject=object] -> "her" | "him"
+NP[Pers=1, Num=plur, SubjectOrObject=object] -> "us"
+NP[Pers=3, Num=sing, SubjectOrObject=object] -> "them"
+
+#Verbs##############
+
+#An example transitive verb: 'to love' (in all its conjugations)
+V1[Pers=1,Num=sing] -> "love"
+V1[Pers=2,Num=sing] -> "love"
+V1[Pers=3,Num=sing] -> "loves"
+V1[Num=plur] -> "love"            
+#Some more transitive verbs. (I'm cheating, by just using the past tense, which is the same for all conjugations.)
+V1[Num=?x] -> "bit" | "chased" | "caught"
+
+#An example verb that takes a sentential complement: 'to think' (in all its conjugations)
+V_Sent[Pers=1, Num=sing] -> "think"
+V_Sent[Pers=2, Num=sing] -> "think"
+V_Sent[Pers=3, Num=sing] -> "thinks"
+V_Sent[Num=plur] -> "think"
+
+#Some example intransitive verbs. (Again just using the past tense, which is the same for all conjugations.)
+V0 -> "slept" | "ran" | "snorted"
+
+#An example ditransitive verb. (Again in the past tense.)
+V2 -> "put"

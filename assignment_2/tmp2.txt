@@ -1,0 +1,605 @@
+Before normalize
+1 1 1 1 1 1 1 100 1 1 1 1 1 1 100 
+The average fitness of survivors in generation 0 are 213.00 / 15 = 14.20
+After normalize
+0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.469 0.005 0.005 0.005 0.005 0.005 0.005 0.469 
+--
+Before normalize
+100 1 1 100 1 87 86 1 100 1 100 
+The average fitness of survivors in generation 1 are 578.00 / 11 = 52.55
+After normalize
+0.173 0.002 0.002 0.173 0.002 0.151 0.149 0.002 0.173 0.002 0.173 
+--
+Before normalize
+1 100 64 89 100 1 1 100 100 1 100 45 89 100 
+The average fitness of survivors in generation 2 are 891.00 / 14 = 63.64
+After normalize
+0.001 0.112 0.072 0.100 0.112 0.001 0.001 0.112 0.112 0.001 0.112 0.051 0.100 0.112 
+--
+Before normalize
+100 16 100 100 16 
+The average fitness of survivors in generation 3 are 332.00 / 5 = 66.40
+After normalize
+0.301 0.048 0.301 0.301 0.048 
+--
+Before normalize
+1 1 64 1 61 100 64 63 100 61 1 100 
+The average fitness of survivors in generation 4 are 617.00 / 12 = 51.42
+After normalize
+0.002 0.002 0.104 0.002 0.099 0.162 0.104 0.102 0.162 0.099 0.002 0.162 
+--
+Before normalize
+100 1 100 1 1 1 100 1 
+The average fitness of survivors in generation 5 are 305.00 / 8 = 38.13
+After normalize
+0.328 0.003 0.328 0.003 0.003 0.003 0.328 0.003 
+--
+Before normalize
+100 100 100 100 5 
+The average fitness of survivors in generation 6 are 405.00 / 5 = 81.00
+After normalize
+0.247 0.247 0.247 0.247 0.012 
+--
+Before normalize
+1 1 1 100 100 100 1 100 
+The average fitness of survivors in generation 7 are 404.00 / 8 = 50.50
+After normalize
+0.002 0.002 0.002 0.248 0.248 0.248 0.002 0.248 
+--
+Before normalize
+1 1 1 1 100 100 100 100 1 
+The average fitness of survivors in generation 8 are 405.00 / 9 = 45.00
+After normalize
+0.002 0.002 0.002 0.002 0.247 0.247 0.247 0.247 0.002 
+--
+Before normalize
+100 100 100 100 100 100 100 100 100 
+The average fitness of survivors in generation 9 are 900.00 / 9 = 100.00
+After normalize
+0.111 0.111 0.111 0.111 0.111 0.111 0.111 0.111 0.111 
+--
+Before normalize
+100 100 1 100 100 100 1 1 1 100 
+The average fitness of survivors in generation 10 are 604.00 / 10 = 60.40
+After normalize
+0.166 0.166 0.002 0.166 0.166 0.166 0.002 0.002 0.002 0.166 
+--
+Before normalize
+100 100 100 100 100 1 100 1 53 53 1 1 59 100 1 1 
+The average fitness of survivors in generation 11 are 871.00 / 16 = 54.44
+After normalize
+0.115 0.115 0.115 0.115 0.115 0.001 0.115 0.001 0.061 0.061 0.001 0.001 0.068 0.115 0.001 0.001 
+--
+Before normalize
+1 100 100 100 1 1 100 1 1 100 54 100 1 
+The average fitness of survivors in generation 12 are 660.00 / 13 = 50.77
+After normalize
+0.002 0.152 0.152 0.152 0.002 0.002 0.152 0.002 0.002 0.152 0.082 0.152 0.002 
+--
+Before normalize
+57 1 1 1 100 100 100 100 100 56 1 1 
+The average fitness of survivors in generation 13 are 618.00 / 12 = 51.50
+After normalize
+0.092 0.002 0.002 0.002 0.162 0.162 0.162 0.162 0.162 0.091 0.002 0.002 
+--
+Before normalize
+100 100 1 1 1 1 1 1 1 1 64 1 1 1 1 1 1 100 1 
+The average fitness of survivors in generation 14 are 379.00 / 19 = 19.95
+After normalize
+0.264 0.264 0.003 0.003 0.003 0.003 0.003 0.003 0.003 0.003 0.169 0.003 0.003 0.003 0.003 0.003 0.003 0.264 0.003 
+--
+Before normalize
+100 1 100 1 100 100 1 100 100 1 65 1 100 1 
+The average fitness of survivors in generation 15 are 771.00 / 14 = 55.07
+After normalize
+0.130 0.001 0.130 0.001 0.130 0.130 0.001 0.130 0.130 0.001 0.084 0.001 0.130 0.001 
+--
+Before normalize
+1 100 59 58 100 1 1 100 72 100 1 100 1 1 59 1 1 1 
+The average fitness of survivors in generation 16 are 757.00 / 18 = 42.06
+After normalize
+0.001 0.132 0.078 0.077 0.132 0.001 0.001 0.132 0.095 0.132 0.001 0.132 0.001 0.001 0.078 0.001 0.001 0.001 
+--
+Before normalize
+100 1 1 1 100 100 100 100 1 1 100 1 1 
+The average fitness of survivors in generation 17 are 607.00 / 13 = 46.69
+After normalize
+0.165 0.002 0.002 0.002 0.165 0.165 0.165 0.165 0.002 0.002 0.165 0.002 0.002 
+--
+Before normalize
+100 100 1 100 100 58 100 100 1 57 
+The average fitness of survivors in generation 18 are 717.00 / 10 = 71.70
+After normalize
+0.139 0.139 0.001 0.139 0.139 0.081 0.139 0.139 0.001 0.079 
+--
+Before normalize
+9 42 100 100 100 100 1 42 100 1 42 
+The average fitness of survivors in generation 19 are 637.00 / 11 = 57.91
+After normalize
+0.014 0.066 0.157 0.157 0.157 0.157 0.002 0.066 0.157 0.002 0.066 
+--
+Before normalize
+100 1 100 1 1 1 1 100 1 1 100 100 
+The average fitness of survivors in generation 20 are 507.00 / 12 = 42.25
+After normalize
+0.197 0.002 0.197 0.002 0.002 0.002 0.002 0.197 0.002 0.002 0.197 0.197 
+--
+Before normalize
+1 1 1 100 1 1 100 1 1 1 100 100 1 1 
+The average fitness of survivors in generation 21 are 410.00 / 14 = 29.29
+After normalize
+0.002 0.002 0.002 0.244 0.002 0.002 0.244 0.002 0.002 0.002 0.244 0.244 0.002 0.002 
+--
+Before normalize
+1 1 1 1 100 59 100 1 58 100 1 1 1 100 1 1 
+The average fitness of survivors in generation 22 are 527.00 / 16 = 32.94
+After normalize
+0.002 0.002 0.002 0.002 0.190 0.112 0.190 0.002 0.110 0.190 0.002 0.002 0.002 0.190 0.002 0.002 
+--
+Before normalize
+1 100 1 100 1 1 1 100 1 1 100 1 
+The average fitness of survivors in generation 23 are 408.00 / 12 = 34.00
+After normalize
+0.002 0.245 0.002 0.245 0.002 0.002 0.002 0.245 0.002 0.002 0.245 0.002 
+--
+Before normalize
+1 100 1 1 1 73 1 1 1 
+The average fitness of survivors in generation 24 are 180.00 / 9 = 20.00
+After normalize
+0.006 0.556 0.006 0.006 0.006 0.406 0.006 0.006 0.006 
+--
+Before normalize
+1 1 100 100 1 1 100 1 1 1 67 100 1 100 1 
+The average fitness of survivors in generation 25 are 576.00 / 15 = 38.40
+After normalize
+0.002 0.002 0.174 0.174 0.002 0.002 0.174 0.002 0.002 0.002 0.116 0.174 0.002 0.174 0.002 
+--
+Before normalize
+84 84 1 100 100 1 100 1 84 1 1 85 
+The average fitness of survivors in generation 26 are 642.00 / 12 = 53.50
+After normalize
+0.131 0.131 0.002 0.156 0.156 0.002 0.156 0.002 0.131 0.002 0.002 0.132 
+--
+Before normalize
+100 1 100 1 1 100 1 100 1 1 1 1 
+The average fitness of survivors in generation 27 are 408.00 / 12 = 34.00
+After normalize
+0.245 0.002 0.245 0.002 0.002 0.245 0.002 0.245 0.002 0.002 0.002 0.002 
+--
+Before normalize
+57 1 100 1 1 1 100 1 1 100 1 1 1 1 
+The average fitness of survivors in generation 28 are 367.00 / 14 = 26.21
+After normalize
+0.155 0.003 0.272 0.003 0.003 0.003 0.272 0.003 0.003 0.272 0.003 0.003 0.003 0.003 
+--
+Before normalize
+55 100 58 1 1 1 57 1 100 100 1 1 1 55 1 1 1 1 
+The average fitness of survivors in generation 29 are 536.00 / 18 = 29.78
+After normalize
+0.103 0.187 0.108 0.002 0.002 0.002 0.106 0.002 0.187 0.187 0.002 0.002 0.002 0.103 0.002 0.002 0.002 0.002 
+--
+Before normalize
+1 1 83 1 1 83 1 100 100 100 100 1 100 1 1 100 
+The average fitness of survivors in generation 30 are 774.00 / 16 = 48.38
+After normalize
+0.001 0.001 0.107 0.001 0.001 0.107 0.001 0.129 0.129 0.129 0.129 0.001 0.129 0.001 0.001 0.129 
+--
+Before normalize
+59 1 65 1 100 58 1 100 100 1 100 1 100 1 
+The average fitness of survivors in generation 31 are 688.00 / 14 = 49.14
+After normalize
+0.086 0.001 0.094 0.001 0.145 0.084 0.001 0.145 0.145 0.001 0.145 0.001 0.145 0.001 
+--
+Before normalize
+1 100 100 1 100 55 100 1 1 100 1 100 1 1 55 
+The average fitness of survivors in generation 32 are 717.00 / 15 = 47.80
+After normalize
+0.001 0.139 0.139 0.001 0.139 0.077 0.139 0.001 0.001 0.139 0.001 0.139 0.001 0.001 0.077 
+--
+Before normalize
+1 1 1 100 100 100 100 100 100 1 64 1 1 100 100 100 1 100 100 
+The average fitness of survivors in generation 33 are 1171.00 / 19 = 61.63
+After normalize
+0.001 0.001 0.001 0.085 0.085 0.085 0.085 0.085 0.085 0.001 0.055 0.001 0.001 0.085 0.085 0.085 0.001 0.085 0.085 
+--
+Before normalize
+100 1 1 1 1 1 100 100 100 1 74 1 73 
+The average fitness of survivors in generation 34 are 554.00 / 13 = 42.62
+After normalize
+0.181 0.002 0.002 0.002 0.002 0.002 0.181 0.181 0.181 0.002 0.134 0.002 0.132 
+--
+Before normalize
+1 1 1 1 97 59 59 1 1 1 100 25 1 1 
+The average fitness of survivors in generation 35 are 349.00 / 14 = 24.93
+After normalize
+0.003 0.003 0.003 0.003 0.278 0.169 0.169 0.003 0.003 0.003 0.287 0.072 0.003 0.003 
+--
+Before normalize
+100 1 1 1 100 1 100 1 100 1 100 1 100 1 1 
+The average fitness of survivors in generation 36 are 609.00 / 15 = 40.60
+After normalize
+0.164 0.002 0.002 0.002 0.164 0.002 0.164 0.002 0.164 0.002 0.164 0.002 0.164 0.002 0.002 
+--
+Before normalize
+1 43 90 1 100 42 42 49 100 1 100 1 5 1 1 100 
+The average fitness of survivors in generation 37 are 677.00 / 16 = 42.31
+After normalize
+0.001 0.064 0.133 0.001 0.148 0.062 0.062 0.072 0.148 0.001 0.148 0.001 0.007 0.001 0.001 0.148 
+--
+Before normalize
+100 100 100 100 1 100 100 73 72 1 100 100 
+The average fitness of survivors in generation 38 are 947.00 / 12 = 78.92
+After normalize
+0.106 0.106 0.106 0.106 0.001 0.106 0.106 0.077 0.076 0.001 0.106 0.106 
+--
+Before normalize
+100 1 100 1 1 1 1 1 100 1 100 1 1 
+The average fitness of survivors in generation 39 are 409.00 / 13 = 31.46
+After normalize
+0.244 0.002 0.244 0.002 0.002 0.002 0.002 0.002 0.244 0.002 0.244 0.002 0.002 
+--
+Before normalize
+91 99 90 100 100 1 37 89 100 98 100 85 84 1 1 
+The average fitness of survivors in generation 40 are 1076.00 / 15 = 71.73
+After normalize
+0.085 0.092 0.084 0.093 0.093 0.001 0.034 0.083 0.093 0.091 0.093 0.079 0.078 0.001 0.001 
+--
+Before normalize
+100 69 100 100 100 100 1 100 1 1 1 69 69 100 91 1 
+The average fitness of survivors in generation 41 are 1003.00 / 16 = 62.69
+After normalize
+0.100 0.069 0.100 0.100 0.100 0.100 0.001 0.100 0.001 0.001 0.001 0.069 0.069 0.100 0.091 0.001 
+--
+Before normalize
+100 100 60 1 1 1 100 100 
+The average fitness of survivors in generation 42 are 463.00 / 8 = 57.88
+After normalize
+0.216 0.216 0.130 0.002 0.002 0.002 0.216 0.216 
+--
+Before normalize
+1 100 1 1 1 100 100 1 100 1 1 1 100 1 100 100 1 100 1 100 
+The average fitness of survivors in generation 43 are 911.00 / 20 = 45.55
+After normalize
+0.001 0.110 0.001 0.001 0.001 0.110 0.110 0.001 0.110 0.001 0.001 0.001 0.110 0.001 0.110 0.110 0.001 0.110 0.001 0.110 
+--
+Before normalize
+100 1 1 1 70 100 1 1 100 100 1 100 1 1 100 1 1 
+The average fitness of survivors in generation 44 are 680.00 / 17 = 40.00
+After normalize
+0.147 0.001 0.001 0.001 0.103 0.147 0.001 0.001 0.147 0.147 0.001 0.147 0.001 0.001 0.147 0.001 0.001 
+--
+Before normalize
+1 1 1 41 9 41 100 100 40 100 100 1 
+The average fitness of survivors in generation 45 are 535.00 / 12 = 44.58
+After normalize
+0.002 0.002 0.002 0.077 0.017 0.077 0.187 0.187 0.075 0.187 0.187 0.002 
+--
+Before normalize
+1 100 100 100 1 1 1 1 100 1 1 100 68 1 1 100 100 100 1 1 1 1 
+The average fitness of survivors in generation 46 are 881.00 / 22 = 40.05
+After normalize
+0.001 0.114 0.114 0.114 0.001 0.001 0.001 0.001 0.114 0.001 0.001 0.114 0.077 0.001 0.001 0.114 0.114 0.114 0.001 0.001 0.001 0.001 
+--
+Before normalize
+100 71 100 100 1 1 100 100 1 1 100 1 1 100 
+The average fitness of survivors in generation 47 are 777.00 / 14 = 55.50
+After normalize
+0.129 0.091 0.129 0.129 0.001 0.001 0.129 0.129 0.001 0.001 0.129 0.001 0.001 0.129 
+--
+Before normalize
+1 40 40 100 100 1 1 1 100 100 1 100 1 1 100 
+The average fitness of survivors in generation 48 are 687.00 / 15 = 45.80
+After normalize
+0.001 0.058 0.058 0.146 0.146 0.001 0.001 0.001 0.146 0.146 0.001 0.146 0.001 0.001 0.146 
+--
+Before normalize
+100 1 75 100 74 100 1 100 
+The average fitness of survivors in generation 49 are 551.00 / 8 = 68.88
+After normalize
+0.181 0.002 0.136 0.181 0.134 0.181 0.002 0.181 
+--
+Before normalize
+1 100 1 1 93 1 58 100 1 93 57 100 100 62 
+The average fitness of survivors in generation 50 are 768.00 / 14 = 54.86
+After normalize
+0.001 0.130 0.001 0.001 0.121 0.001 0.076 0.130 0.001 0.121 0.074 0.130 0.130 0.081 
+--
+Before normalize
+100 1 1 1 100 1 1 1 1 100 1 1 
+The average fitness of survivors in generation 51 are 309.00 / 12 = 25.75
+After normalize
+0.324 0.003 0.003 0.003 0.324 0.003 0.003 0.003 0.003 0.324 0.003 0.003 
+--
+Before normalize
+100 100 100 100 1 1 100 1 100 
+The average fitness of survivors in generation 52 are 603.00 / 9 = 67.00
+After normalize
+0.166 0.166 0.166 0.166 0.002 0.002 0.166 0.002 0.166 
+--
+Before normalize
+1 62 100 1 1 1 47 1 47 1 1 1 100 1 
+The average fitness of survivors in generation 53 are 365.00 / 14 = 26.07
+After normalize
+0.003 0.170 0.274 0.003 0.003 0.003 0.129 0.003 0.129 0.003 0.003 0.003 0.274 0.003 
+--
+Before normalize
+1 1 1 100 100 1 1 100 100 100 1 
+The average fitness of survivors in generation 54 are 506.00 / 11 = 46.00
+After normalize
+0.002 0.002 0.002 0.198 0.198 0.002 0.002 0.198 0.198 0.198 0.002 
+--
+Before normalize
+53 53 1 1 1 100 1 100 64 1 1 1 
+The average fitness of survivors in generation 55 are 377.00 / 12 = 31.42
+After normalize
+0.141 0.141 0.003 0.003 0.003 0.265 0.003 0.265 0.170 0.003 0.003 0.003 
+--
+Before normalize
+1 100 1 1 37 1 1 55 1 1 100 1 1 1 100 54 100 100 
+The average fitness of survivors in generation 56 are 656.00 / 18 = 36.44
+After normalize
+0.002 0.152 0.002 0.002 0.056 0.002 0.002 0.084 0.002 0.002 0.152 0.002 0.002 0.002 0.152 0.082 0.152 0.152 
+--
+Before normalize
+75 100 100 100 100 59 1 100 100 100 1 74 
+The average fitness of survivors in generation 57 are 910.00 / 12 = 75.83
+After normalize
+0.082 0.110 0.110 0.110 0.110 0.065 0.001 0.110 0.110 0.110 0.001 0.081 
+--
+Before normalize
+100 93 1 1 1 77 1 1 91 41 63 1 
+The average fitness of survivors in generation 58 are 471.00 / 12 = 39.25
+After normalize
+0.212 0.197 0.002 0.002 0.002 0.163 0.002 0.002 0.193 0.087 0.134 0.002 
+--
+Before normalize
+1 1 100 100 1 100 1 1 1 1 100 
+The average fitness of survivors in generation 59 are 407.00 / 11 = 37.00
+After normalize
+0.002 0.002 0.246 0.246 0.002 0.246 0.002 0.002 0.002 0.002 0.246 
+--
+Before normalize
+92 64 64 75 58 100 100 100 100 72 91 100 
+The average fitness of survivors in generation 60 are 1016.00 / 12 = 84.67
+After normalize
+0.091 0.063 0.063 0.074 0.057 0.098 0.098 0.098 0.098 0.071 0.090 0.098 
+--
+Before normalize
+100 100 100 100 1 1 100 1 100 
+The average fitness of survivors in generation 61 are 603.00 / 9 = 67.00
+After normalize
+0.166 0.166 0.166 0.166 0.002 0.002 0.166 0.002 0.166 
+--
+Before normalize
+100 100 100 100 100 55 1 1 1 1 
+The average fitness of survivors in generation 62 are 559.00 / 10 = 55.90
+After normalize
+0.179 0.179 0.179 0.179 0.179 0.098 0.002 0.002 0.002 0.002 
+--
+Before normalize
+100 98 1 1 100 90 100 100 100 100 90 100 1 100 100 89 
+The average fitness of survivors in generation 63 are 1270.00 / 16 = 79.38
+After normalize
+0.079 0.077 0.001 0.001 0.079 0.071 0.079 0.079 0.079 0.079 0.071 0.079 0.001 0.079 0.079 0.070 
+--
+Before normalize
+1 100 100 100 1 1 100 1 100 1 
+The average fitness of survivors in generation 64 are 505.00 / 10 = 50.50
+After normalize
+0.002 0.198 0.198 0.198 0.002 0.002 0.198 0.002 0.198 0.002 
+--
+Before normalize
+100 100 1 62 1 100 67 100 1 62 1 100 100 
+The average fitness of survivors in generation 65 are 795.00 / 13 = 61.15
+After normalize
+0.126 0.126 0.001 0.078 0.001 0.126 0.084 0.126 0.001 0.078 0.001 0.126 0.126 
+--
+Before normalize
+67 1 100 54 66 100 100 100 53 
+The average fitness of survivors in generation 66 are 641.00 / 9 = 71.22
+After normalize
+0.105 0.002 0.156 0.084 0.103 0.156 0.156 0.156 0.083 
+--
+Before normalize
+1 1 97 72 100 100 96 100 1 62 100 
+The average fitness of survivors in generation 67 are 730.00 / 11 = 66.36
+After normalize
+0.001 0.001 0.133 0.099 0.137 0.137 0.132 0.137 0.001 0.085 0.137 
+--
+Before normalize
+100 1 1 100 100 1 100 1 1 1 42 1 42 1 42 
+The average fitness of survivors in generation 68 are 534.00 / 15 = 35.60
+After normalize
+0.187 0.002 0.002 0.187 0.187 0.002 0.187 0.002 0.002 0.002 0.079 0.002 0.079 0.002 0.079 
+--
+Before normalize
+100 100 100 100 1 100 1 100 1 
+The average fitness of survivors in generation 69 are 603.00 / 9 = 67.00
+After normalize
+0.166 0.166 0.166 0.166 0.002 0.166 0.002 0.166 0.002 
+--
+Before normalize
+56 75 100 56 100 1 100 56 100 92 1 100 91 1 1 1 
+The average fitness of survivors in generation 70 are 931.00 / 16 = 58.19
+After normalize
+0.060 0.081 0.107 0.060 0.107 0.001 0.107 0.060 0.107 0.099 0.001 0.107 0.098 0.001 0.001 0.001 
+--
+Before normalize
+1 100 1 100 59 100 53 78 1 1 1 77 1 100 58 100 100 100 
+The average fitness of survivors in generation 71 are 1031.00 / 18 = 57.28
+After normalize
+0.001 0.097 0.001 0.097 0.057 0.097 0.051 0.076 0.001 0.001 0.001 0.075 0.001 0.097 0.056 0.097 0.097 0.097 
+--
+Before normalize
+100 1 100 100 100 82 1 82 100 100 1 1 100 1 
+The average fitness of survivors in generation 72 are 869.00 / 14 = 62.07
+After normalize
+0.115 0.001 0.115 0.115 0.115 0.094 0.001 0.094 0.115 0.115 0.001 0.001 0.115 0.001 
+--
+Before normalize
+100 1 100 100 1 1 100 100 1 
+The average fitness of survivors in generation 73 are 504.00 / 9 = 56.00
+After normalize
+0.198 0.002 0.198 0.198 0.002 0.002 0.198 0.198 0.002 
+--
+Before normalize
+1 100 100 100 1 1 1 1 
+The average fitness of survivors in generation 74 are 305.00 / 8 = 38.13
+After normalize
+0.003 0.328 0.328 0.328 0.003 0.003 0.003 0.003 
+--
+Before normalize
+100 100 100 1 100 100 100 1 100 1 
+The average fitness of survivors in generation 75 are 703.00 / 10 = 70.30
+After normalize
+0.142 0.142 0.142 0.001 0.142 0.142 0.142 0.001 0.142 0.001 
+--
+Before normalize
+1 1 100 1 100 1 100 1 100 
+The average fitness of survivors in generation 76 are 405.00 / 9 = 45.00
+After normalize
+0.002 0.002 0.247 0.002 0.247 0.002 0.247 0.002 0.247 
+--
+Before normalize
+100 1 1 100 100 100 100 1 1 1 100 
+The average fitness of survivors in generation 77 are 605.00 / 11 = 55.00
+After normalize
+0.165 0.002 0.002 0.165 0.165 0.165 0.165 0.002 0.002 0.002 0.165 
+--
+Before normalize
+1 100 1 100 1 100 100 100 100 100 92 
+The average fitness of survivors in generation 78 are 795.00 / 11 = 72.27
+After normalize
+0.001 0.126 0.001 0.126 0.001 0.126 0.126 0.126 0.126 0.126 0.116 
+--
+Before normalize
+1 1 100 1 100 1 100 1 1 100 100 100 
+The average fitness of survivors in generation 79 are 606.00 / 12 = 50.50
+After normalize
+0.002 0.002 0.165 0.002 0.165 0.002 0.165 0.002 0.002 0.165 0.165 0.165 
+--
+Before normalize
+46 100 100 100 1 1 100 1 1 1 100 
+The average fitness of survivors in generation 80 are 551.00 / 11 = 50.09
+After normalize
+0.083 0.181 0.181 0.181 0.002 0.002 0.181 0.002 0.002 0.002 0.181 
+--
+Before normalize
+100 100 100 1 1 100 1 100 100 100 100 
+The average fitness of survivors in generation 81 are 803.00 / 11 = 73.00
+After normalize
+0.125 0.125 0.125 0.001 0.001 0.125 0.001 0.125 0.125 0.125 0.125 
+--
+Before normalize
+100 100 100 100 100 100 1 
+The average fitness of survivors in generation 82 are 601.00 / 7 = 85.86
+After normalize
+0.166 0.166 0.166 0.166 0.166 0.166 0.002 
+--
+Before normalize
+100 100 100 12 1 100 100 100 100 1 1 60 
+The average fitness of survivors in generation 83 are 775.00 / 12 = 64.58
+After normalize
+0.129 0.129 0.129 0.015 0.001 0.129 0.129 0.129 0.129 0.001 0.001 0.077 
+--
+Before normalize
+1 100 1 100 100 100 100 1 1 100 1 1 100 1 1 
+The average fitness of survivors in generation 84 are 708.00 / 15 = 47.20
+After normalize
+0.001 0.141 0.001 0.141 0.141 0.141 0.141 0.001 0.001 0.141 0.001 0.001 0.141 0.001 0.001 
+--
+Before normalize
+100 100 89 88 100 88 100 100 
+The average fitness of survivors in generation 85 are 765.00 / 8 = 95.63
+After normalize
+0.131 0.131 0.116 0.115 0.131 0.115 0.131 0.131 
+--
+Before normalize
+100 100 54 100 100 100 100 100 100 1 54 100 
+The average fitness of survivors in generation 86 are 1009.00 / 12 = 84.08
+After normalize
+0.099 0.099 0.054 0.099 0.099 0.099 0.099 0.099 0.099 0.001 0.054 0.099 
+--
+Before normalize
+89 1 100 100 100 100 1 89 100 1 
+The average fitness of survivors in generation 87 are 681.00 / 10 = 68.10
+After normalize
+0.131 0.001 0.147 0.147 0.147 0.147 0.001 0.131 0.147 0.001 
+--
+Before normalize
+100 1 100 100 100 100 100 1 100 100 1 1 100 1 
+The average fitness of survivors in generation 88 are 905.00 / 14 = 64.64
+After normalize
+0.110 0.001 0.110 0.110 0.110 0.110 0.110 0.001 0.110 0.110 0.001 0.001 0.110 0.001 
+--
+Before normalize
+1 100 1 100 100 100 1 100 1 100 1 100 1 1 100 
+The average fitness of survivors in generation 89 are 807.00 / 15 = 53.80
+After normalize
+0.001 0.124 0.001 0.124 0.124 0.124 0.001 0.124 0.001 0.124 0.001 0.124 0.001 0.001 0.124 
+--
+Before normalize
+100 100 100 100 100 100 100 100 1 100 100 
+The average fitness of survivors in generation 90 are 1001.00 / 11 = 91.00
+After normalize
+0.100 0.100 0.100 0.100 0.100 0.100 0.100 0.100 0.001 0.100 0.100 
+--
+Before normalize
+100 100 1 100 1 100 100 100 1 1 1 
+The average fitness of survivors in generation 91 are 605.00 / 11 = 55.00
+After normalize
+0.165 0.165 0.002 0.165 0.002 0.165 0.165 0.165 0.002 0.002 0.002 
+--
+Before normalize
+1 100 1 1 100 100 100 1 1 100 1 
+The average fitness of survivors in generation 92 are 506.00 / 11 = 46.00
+After normalize
+0.002 0.198 0.002 0.002 0.198 0.198 0.198 0.002 0.002 0.198 0.002 
+--
+Before normalize
+100 1 100 100 100 100 1 1 100 100 100 100 
+The average fitness of survivors in generation 93 are 903.00 / 12 = 75.25
+After normalize
+0.111 0.001 0.111 0.111 0.111 0.111 0.001 0.001 0.111 0.111 0.111 0.111 
+--
+Before normalize
+100 1 1 57 1 1 56 1 
+The average fitness of survivors in generation 94 are 218.00 / 8 = 27.25
+After normalize
+0.459 0.005 0.005 0.261 0.005 0.005 0.257 0.005 
+--
+Before normalize
+100 100 100 1 1 1 100 60 1 59 100 1 
+The average fitness of survivors in generation 95 are 624.00 / 12 = 52.00
+After normalize
+0.160 0.160 0.160 0.002 0.002 0.002 0.160 0.096 0.002 0.095 0.160 0.002 
+--
+Before normalize
+91 100 100 100 100 57 52 100 1 1 52 87 100 100 
+The average fitness of survivors in generation 96 are 1041.00 / 14 = 74.36
+After normalize
+0.087 0.096 0.096 0.096 0.096 0.055 0.050 0.096 0.001 0.001 0.050 0.084 0.096 0.096 
+--
+Before normalize
+100 100 100 100 1 100 100 1 100 54 55 100 54 1 
+The average fitness of survivors in generation 97 are 966.00 / 14 = 69.00
+After normalize
+0.104 0.104 0.104 0.104 0.001 0.104 0.104 0.001 0.104 0.056 0.057 0.104 0.056 0.001 
+--
+Before normalize
+56 100 100 100 55 100 100 100 
+The average fitness of survivors in generation 98 are 711.00 / 8 = 88.88
+After normalize
+0.079 0.141 0.141 0.141 0.077 0.141 0.141 0.141 
+--
+Before normalize
+39 100 1 1 89 58 100 100 1 38 55 100 89 100 38 100 100 
+The average fitness of survivors in generation 99 are 1109.00 / 17 = 65.24
+After normalize
+0.035 0.090 0.001 0.001 0.080 0.052 0.090 0.090 0.001 0.034 0.050 0.090 0.080 0.090 0.034 0.090 0.090 
+--
+Before normalize
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+The average fitness of survivors in generation 100 are 1500.00 / 15 = 100.00
+After normalize
+0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 0.067 
